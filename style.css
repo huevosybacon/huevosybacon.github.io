@@ -8,20 +8,20 @@ body{
 }
 
 header{
-    background-color : lightgreen;
+    background-color: lightgreen;
     padding-left: 8px;
-    padding-top:8px;
+    padding-top: 8px;
     /* font-family: sans-serif; */
 }
 
 h1{
     font-family: sans-serif;
-    line-height:1.3;
+    line-height: 1.3;
 }
 
 main{
-    padding-left:8px;
-    line-height:1.2;
+    padding-left: 8px;
+    line-height: 1.2;
 }
 
 address{
@@ -29,5 +29,9 @@ address{
 }
 
 a{
-    color : DarkBlue;
+    color: DarkBlue;
+}
+
+footer{
+    padding-left: 8px;
 }
